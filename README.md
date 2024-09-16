@@ -1,1 +1,1 @@
-# LynxHub-Patrons
+# LynxHub Patrons
